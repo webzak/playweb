@@ -1,2 +1,2 @@
 # playweb
-web automation library
+The web automation library
